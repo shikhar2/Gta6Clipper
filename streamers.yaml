@@ -1,0 +1,11 @@
+# Streamers who said YES to you clipping them.
+# Their clips are sent to your Telegram immediately (no waiting).
+# Keep a screenshot of every "yes" as proof!
+#
+# You can also approve people from Telegram with:  /approve name
+
+twitch:
+  # - name: examplestreamer        # the name in their link: twitch.tv/examplestreamer
+
+youtube:
+  # - handle: "@ExampleYouTuber"   # the @handle in their link: youtube.com/@ExampleYouTuber
